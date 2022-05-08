@@ -1,0 +1,17 @@
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\bin\Debug\net6.0-windows\Satisfactory Optimizer.exe
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\bin\Debug\net6.0-windows\Satisfactory Optimizer.deps.json
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\bin\Debug\net6.0-windows\Satisfactory Optimizer.runtimeconfig.json
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\bin\Debug\net6.0-windows\Satisfactory Optimizer.dll
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\bin\Debug\net6.0-windows\Satisfactory Optimizer.pdb
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.csproj.AssemblyReference.cache
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory_Optimizer.Form1.resources
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.csproj.GenerateResource.cache
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.AssemblyInfoInputs.cache
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.AssemblyInfo.cs
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.csproj.CoreCompileInputs.cache
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.dll
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\refint\Satisfactory Optimizer.dll
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.pdb
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\Satisfactory Optimizer.genruntimeconfig.cache
+F:\Git_projects\Satisfactory Optimizer\Code\Satisfactory Optimizer\Satisfactory Optimizer\obj\Debug\net6.0-windows\ref\Satisfactory Optimizer.dll
